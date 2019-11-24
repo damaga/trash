@@ -1,3 +1,3 @@
 <?php
-echo "Congratulations! You are hacker from exploit ctf?";
+echo "Congratulations! Maybe you hacker from exploit-ctf?";
 ?>
